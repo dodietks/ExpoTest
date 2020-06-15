@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "f-end",
-    "slug": "f-end",
+    "name": "The Good Wolf",
+    "slug": "thegoodwolf",
     "platforms": [
       "ios",
       "android",
@@ -13,7 +13,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#5082C9"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
