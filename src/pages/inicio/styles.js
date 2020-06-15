@@ -8,22 +8,6 @@ export default StyleSheet.create({
     paddingTop: Constants.statusBarHeight + 20,
   },
 
-  header: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    backgroundColor: '#FFF',
-    padding: 16,
-    shadowColor: "#000",
-    shadowOffset: {
-      width: 0,
-      height: 2,
-    },
-    shadowOpacity: 0.25,
-    shadowRadius: 3.84,
-    elevation: 2,
-  },
-
   title: {
     fontSize: 30,
     marginBottom: 16,
@@ -40,7 +24,7 @@ export default StyleSheet.create({
   },
 
   qrcode: {
-    flex: 1,
+    //flex: 1,
     padding: 8,
     backgroundColor: '#FFF',
     alignItems: 'center',

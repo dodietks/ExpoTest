@@ -47,7 +47,11 @@ export default StyleSheet.create({
     color: '#737380',
   },
 
-  itemList: {
+  itemMenuList: {
+    marginTop: 16,
+  },
+
+  itemTipeList: {
     marginTop: 16,
   },
 
